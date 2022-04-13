@@ -1,2 +1,2 @@
 # optical
-optical receipt 
+optical recipes 
